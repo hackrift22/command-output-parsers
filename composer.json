@@ -1,5 +1,5 @@
 {
-  "name": "reconmap/command-output-parsers",
+  "name": "hackrift22/command-output-parsers",
   "description": "Parsers for many security command outputs in the form of a PHP library",
   "type": "library",
   "license": "LGPL-3.0-or-later",
